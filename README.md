@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex Obwogi
-- 👀 I’m interested in creating systems, websites and mobile Applications.
+- 👀 I’m interested in creating systems, Static and Dynamic websites and mobile Applications.
 - 🌱 I’m currently learning JavaScript and its frameworks.
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me
