@@ -1,12 +1,19 @@
-- 👋 Hi, I’m Alex Obwogi
-- 👀 I’m interested in creating systems, Static and Dynamic websites and mobile Applications.
-- 🌱 I’m currently learning JavaScript and its frameworks.
-- 💞️ I’m looking to collaborate on software development projects.
-- 📫 How to reach me
-- email: obwogialex728@gmail.com
-- phone: 0741530481
-- 😄 Pronouns: LogicCocoon 
-- ⚡ Fun fact: loves comedy.
+👋 Hi there, I'm Alex Obwogi
+💡 I'm passionate about building systems, websites (static & dynamic), and mobile applications.
+
+🌱 Currently learning JavaScript and its frameworks to level up my frontend & backend skills.
+
+🤝 Open to collaborating on software development projects, especially those with real-world impact.
+
+📬 Let's connect:
+
+Email: obwogialex728@gmail.com
+
+Phone: +254 741 530 481
+
+😄 Also known as: LogicCocoon
+
+⚡ Fun fact: I'm a huge fan of comedy — code hard, laugh harder!
 
 <!---
 AlexObwogi/AlexObwogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
