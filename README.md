@@ -1,4 +1,4 @@
-[click to view my portfolio]{https://alexobwogi.github.io/myPortfolio-website/}
+[click to view my portfolio](https://alexobwogi.github.io/myPortfolio-website/)
 👋 Hi there, I'm Alex Obwogi
 💡 I'm passionate about building systems, websites (static & dynamic), and mobile applications.
 
