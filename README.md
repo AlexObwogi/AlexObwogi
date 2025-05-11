@@ -1,10 +1,12 @@
-[click to view my portfolio](https://alexobwogi.github.io/myPortfolio-website/)
 👋 Hi there, I'm Alex Obwogi
+
 💡 I'm passionate about building systems, websites (static & dynamic), and mobile applications.
 
 🌱 Currently learning JavaScript and its frameworks to level up my frontend & backend skills.
 
 🤝 Open to collaborating on software development projects, especially those with real-world impact.
+
+[Click here to view my live portfolio](https://alexobwogi.github.io/myPortfolio-website/)
 
 📬 Let's connect:
 
